@@ -16,6 +16,18 @@
     width: 40px;
 }
 
+/* Main */
+
+.banner{
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png);
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    filter: grayscale(.8)
+}
+
 /* Contact */
 .contact{
     background-color: #F2F2F2;
